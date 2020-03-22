@@ -10,3 +10,5 @@ This file will remark my study.
 
 I am trying upload from local through the git app.
 I am successful!
+
+Now I can use the branch and the reset on 2020/03/22 !
